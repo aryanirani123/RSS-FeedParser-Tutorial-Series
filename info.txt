@@ -1,0 +1,22 @@
+RSS FeedParser Tutorial Series 
+
+What is RSS ?
+
+RSS (Rich Site Summary) is a format for delivering regularly changing web content. 
+News websites, weblogs, online publishers and more chain their content as an RSS 
+Feed to whoever wants it.
+
+What is FeedParser ?
+
+Feedparser is a python module for downloading and parsing syndicated feeds.
+In this video we are going to be using python and the feedparser module to 
+get latest updates from your favourite medium bloggers.
+
+What does this series contain ?
+
+(1) Installing and getting started with FeedParser
+(2) Interacting with the website(understanding the structure of the website, getting titles and more)
+(3) FeedParser for Medium
+(4) Advanced FeedParser for medium
+
+
